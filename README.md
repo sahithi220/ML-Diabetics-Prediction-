@@ -56,4 +56,4 @@ The workflow of this project includes:
 
 Outcome and Benefits
 
-The final model predicts whether an individual is diabetic or non-diabetic. Early detection allows for timely intervention, lifestyle adjustments, and preventive care, reducing long-term health risks. This project is ideal for beginners in machine learning and for healthcare applications, demonstrating the practical use of SVM in medical diagnostics.
+The final model predicts whether an individual is diabetic or non-diabetic. Early detection allows for timely intervention, lifestyle adjustments, and preventive care, reducing long-term health risks. This project is ideal  in machine learning and for healthcare applications, demonstrating the practical use of SVM in medical diagnostics.
